@@ -1,0 +1,10 @@
+# Python virtual environment
+venv/
+
+# Node.js dependencies for React
+node_modules/
+
+# Django-specific files
+*.pyc
+__pycache__/
+db.sqlite3
